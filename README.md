@@ -1,8 +1,8 @@
-#Semáforo
+# Semáforo
 
 Construindo um Semáforo com pedido de pedestre
 
-##Material Necessário
+## Material Necessário
 
 * RaspBerry Pi com sistema operacional Raspbian instalado
 * Protoboard
@@ -10,11 +10,11 @@ Construindo um Semáforo com pedido de pedestre
 * Jumpers Macho/Fêmea
 * Resistor 220ohms
 
-##Configuração do GPIO Raspberry
+## Configuração do GPIO Raspberry
 
 ![Protoboard](image/semaforo.png)
 
-##Execução
+## Execução
 
 ```bash
 python semaforo.py
